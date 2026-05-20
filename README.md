@@ -9,7 +9,7 @@
 ---
 
 # 🌐 Portfolio Website:
-[![Portfolio](https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://your-website-link.com](https://boomhuyxt.github.io/GiaHuy_Portfolio/))
+[![Portfolio](https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://boomhuyxt.github.io/GiaHuy_Portfolio/)
 
 ---
 
